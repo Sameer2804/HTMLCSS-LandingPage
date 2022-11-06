@@ -50,9 +50,11 @@ section {
 }
 
 .btn-default{
-    color: #364147;
+    color: white;
+    background-color: #364147;
 }
 
 .btn-primary{
-    color: #faa541;
+    color: white;
+    background-color: #faa541;
 }
