@@ -155,7 +155,7 @@ section {
 }
 
 .hero{
-    background-image: url("https://raw.githubusercontent.com/Sameer2804/HTMLCSS-LandingPage/master/img/hero.jpg");
+    background-image: url("../img/hero.jpg");
     height: 400px;
     background-size: cover;
     background-position: center center;
