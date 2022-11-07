@@ -157,7 +157,7 @@ section {
 .hero{
     background-image: url("https://raw.githubusercontent.com/Sameer2804/HTMLCSS-LandingPage/master/img/hero.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     text-transform: uppercase;
     height: 400px;
 }
