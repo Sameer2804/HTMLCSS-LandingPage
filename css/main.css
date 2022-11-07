@@ -159,11 +159,12 @@ section {
     background-size: cover;
     background-position: center;
     text-transform: uppercase;
+    height: 400px;
 }
 
 .hero h1{
     position: relative;
-    right: 30px;
+    left: -30px;
 }
 
 .hero h2{
